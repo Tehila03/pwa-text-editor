@@ -40,6 +40,9 @@ The link to the deployed application is:
 
 ## Demo
 
+![JATE 1](https://github.com/Tehila03/pwa-text-editor/assets/125328462/58a35dd5-e169-4e6e-852a-2580bd20ac67)
+
+
 ## Built With
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)

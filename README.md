@@ -36,7 +36,7 @@ Then open Insomnia and type http://localhost:3000/ to run this application on yo
 
 ## Deployed Link
 
-The link to the deployed application is:
+The link to the deployed application is: https://pwa-text-edit-2b0ec0a96acb.herokuapp.com/
 
 ## Demo
 
